@@ -222,9 +222,9 @@ a:hover {
  Modify as content requires.
  ========================================================================== */
 
-@media only screen and (max-width: 35em) {
+@media only screen and (max-width: 50em) {
   img {
-    width: 100%;
+    max-width: 25em;
   }
 }
 
