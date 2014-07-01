@@ -304,3 +304,8 @@ a:hover {
       page-break-after: avoid;
   }
 }
+
+footer {
+  text-align: right;
+  margin-right: 5px;
+}
