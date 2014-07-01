@@ -224,7 +224,7 @@ a:hover {
 
 @media only screen and (max-width: 50em) {
   img {
-    max-width: 25em;
+    max-width: 20em;
   }
 }
 
